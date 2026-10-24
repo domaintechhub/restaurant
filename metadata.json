@@ -1,0 +1,6 @@
+{
+  "name": "Urban Bites - Nairobi Dining & Table Reservations",
+  "description": "East Africa's Curated Table Authority. Discover Nairobi's vibrant dining scene, rooftop bars, Swahili cuisines, and book instant confirmed tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
